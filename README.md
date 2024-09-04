@@ -1,6 +1,2 @@
 # AutomationPublicRepo
 
-update
-
-
-asdasdas
